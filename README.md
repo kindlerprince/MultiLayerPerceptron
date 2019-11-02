@@ -16,7 +16,7 @@ filename(with path if not in same directory) with path in the source code.
     according to the training data
     - Number of labels can be changed but is should be also  
     according to the training data
-    - Number of nodes in hidden can also be modified  
+    - Number of nodes in hidden layer can also be modified  
 
 *Note :- Instruction to modify the parameters are commented in the source code*  
 * To know about neural network a pdf file attached in this repository  
